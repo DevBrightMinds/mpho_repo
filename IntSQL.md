@@ -1,6 +1,6 @@
 # For intermediate SQL Practitioners 
 
-THE PREREQUITES WOULD BE: 
+THE PREREQUISITES WOULD BE: 
 
 1. Functions in SQL. You should know about aggregate and scalar functions, as well as built-in and user-defined functions.
 2. Advanced commands. Questions may cover topics like joins, primary and foreign keys, indexes, and SQL relationships.
