@@ -82,7 +82,7 @@ THE PREREQUITES WOULD BE:
 
 1. How would you find the second highest salary from the following table? - create a table and insert the data displayed
 
-SEE THIS FOR REFERENCE ![alt text](image.png)
+SEE THIS FOR REFERENCE - Image1.png
 
 2. What do you understand about a character manipulation function?
 3. Define some of the character manipulation functions
@@ -90,5 +90,6 @@ SEE THIS FOR REFERENCE ![alt text](image.png)
 5. What are the types of relationships in SQL Server databases?
 6. From the images below, join create the two tables - insert the data displayed, then join them and return a table with the OrderID, CustomerName and OrderDate
 
-![alt text](image-1.png)
-![alt text](image-2.png)
+ Image2.png
+ Image3.png
+ results.png
